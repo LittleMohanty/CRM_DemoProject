@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="automation suite" thread-count="1" parallel="classes">
+	<listeners>
+		<listener class-name="com_utilities.AdvanceReport"/>
+		<listener class-name="com_utilities.Transformer" />
+	</listeners>
+	
+	<test name="Login test">
+		<classes>
+			<class name="com_TestCase.LoginPage_TestCase" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="Homepage Test">
+		<classes>
+			<class name="com_TestCase.HomePage_TestCase" />
+		</classes>
+	</test>
+	<test name="Combined test">
+	  <classes>
+	    <class name	="com_TestCase.CombinedPage_TestCase"/>
+	  </classes>
+	</test>
+	
+</suite> <!-- Suite -->

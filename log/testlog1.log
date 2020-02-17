@@ -1,0 +1,377 @@
+2020-02-06 22:39:39,874 [TestNG-tests-1] INFO ebanking - Login page title validation successful
+2020-02-06 22:39:40,296 [TestNG-tests-1] INFO ebanking - Login page UI validation successful
+2020-02-06 22:39:50,665 [TestNG-tests-1] INFO ebanking - Login  successful
+2020-02-06 22:40:17,792 [TestNG-tests-1] INFO ebanking - Login  successful
+2020-02-06 22:40:18,115 [TestNG-tests-1] INFO ebanking - Companies button validation successful
+2020-02-06 22:40:19,004 [TestNG-tests-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-06 22:40:59,792 [TestNG-tests-1] INFO ebanking - Login page title validation successful
+2020-02-06 22:41:00,552 [TestNG-tests-1] INFO ebanking - Login page UI validation successful
+2020-02-06 22:42:29,128 [TestNG-tests-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-06 23:23:40,533 [main] INFO ebanking - Login  successful
+2020-02-06 23:23:40,647 [main] INFO ebanking - Companies button validation successful
+2020-02-06 23:23:41,007 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-06 23:27:03,693 [main] INFO ebanking - Login  successful
+2020-02-06 23:27:03,791 [main] INFO ebanking - Companies button validation successful
+2020-02-06 23:29:15,143 [main] INFO ebanking - Login  successful
+2020-02-06 23:29:15,245 [main] INFO ebanking - Companies button validation successful
+2020-02-06 23:29:15,593 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-06 23:30:30,877 [main] INFO ebanking - Login  successful
+2020-02-06 23:30:30,974 [main] INFO ebanking - Companies button validation successful
+2020-02-06 23:30:31,297 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-06 23:54:49,526 [main] INFO ebanking - Login  successful
+2020-02-06 23:54:49,618 [main] INFO ebanking - Companies button validation successful
+2020-02-06 23:54:49,960 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-06 23:54:50,047 [main] INFO ebanking - Combined button successfully click
+2020-02-06 23:56:24,809 [main] INFO ebanking - Login  successful
+2020-02-06 23:56:24,937 [main] INFO ebanking - Companies button validation successful
+2020-02-06 23:56:25,273 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-06 23:56:25,365 [main] INFO ebanking - Combined button successfully click
+2020-02-09 20:37:15,268 [TestNG-tests-1] INFO ebanking - Login page title validation successful
+2020-02-09 20:37:15,905 [TestNG-tests-1] INFO ebanking - Login page UI validation successful
+2020-02-09 20:37:23,909 [TestNG-tests-1] INFO ebanking - Login  successful
+2020-02-09 20:37:46,651 [TestNG-tests-1] INFO ebanking - Login  successful
+2020-02-09 20:37:46,822 [TestNG-tests-1] INFO ebanking - Companies button validation successful
+2020-02-09 20:37:47,343 [TestNG-tests-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-09 20:37:47,580 [TestNG-tests-1] INFO ebanking - Combined button successfully click
+2020-02-09 20:40:06,192 [TestNG-tests-1] INFO ebanking - Login page title validation successful
+2020-02-09 20:40:06,976 [TestNG-tests-1] INFO ebanking - Login page UI validation successful
+2020-02-09 20:40:13,994 [TestNG-tests-1] INFO ebanking - Login  successful
+2020-02-09 20:40:38,134 [TestNG-tests-1] INFO ebanking - Login  successful
+2020-02-09 20:40:38,299 [TestNG-tests-1] INFO ebanking - Companies button validation successful
+2020-02-09 20:40:38,768 [TestNG-tests-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-09 20:40:38,942 [TestNG-tests-1] INFO ebanking - Combined button successfully click
+2020-02-09 20:45:30,903 [TestNG-tests-1] INFO ebanking - Login page title validation successful
+2020-02-09 20:45:31,604 [TestNG-tests-1] INFO ebanking - Login page UI validation successful
+2020-02-09 20:45:40,879 [TestNG-tests-1] INFO ebanking - Login  successful
+2020-02-09 20:46:05,267 [TestNG-tests-1] INFO ebanking - Login  successful
+2020-02-09 20:46:05,565 [TestNG-tests-1] INFO ebanking - Companies button validation successful
+2020-02-09 20:46:06,209 [TestNG-tests-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-09 20:46:06,494 [TestNG-tests-1] INFO ebanking - Combined button successfully click
+2020-02-09 21:35:36,550 [TestNG-tests-1] INFO ebanking - Login page title validation successful
+2020-02-09 21:35:36,932 [TestNG-tests-1] INFO ebanking - Login page UI validation successful
+2020-02-09 21:35:44,386 [TestNG-tests-1] INFO ebanking - Login  successful
+2020-02-09 21:36:05,937 [TestNG-tests-1] INFO ebanking - Login  successful
+2020-02-09 21:36:06,113 [TestNG-tests-1] INFO ebanking - Companies button validation successful
+2020-02-09 21:36:06,580 [TestNG-tests-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-09 21:36:06,729 [TestNG-tests-1] INFO ebanking - Combined button successfully click
+2020-02-09 21:50:52,479 [main] INFO ebanking - Login  successful
+2020-02-09 21:50:52,787 [main] INFO ebanking - Companies button validation successful
+2020-02-09 21:50:53,321 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-09 21:50:53,513 [main] INFO ebanking - Combined button successfully click
+2020-02-09 21:50:54,128 [main] INFO ebanking - Back button click successfully
+2020-02-09 21:54:07,429 [TestNG-tests-1] INFO ebanking - Login page title validation successful
+2020-02-09 21:54:07,780 [TestNG-tests-1] INFO ebanking - Login page UI validation successful
+2020-02-09 21:54:15,266 [TestNG-tests-1] INFO ebanking - Login  successful
+2020-02-09 21:54:39,327 [TestNG-tests-1] INFO ebanking - Login  successful
+2020-02-09 21:54:39,557 [TestNG-tests-1] INFO ebanking - Companies button validation successful
+2020-02-09 21:54:40,066 [TestNG-tests-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-09 21:54:40,364 [TestNG-tests-1] INFO ebanking - Combined button successfully click
+2020-02-09 21:55:07,323 [TestNG-tests-1] INFO ebanking - Login  successful
+2020-02-09 21:55:07,481 [TestNG-tests-1] INFO ebanking - Companies button validation successful
+2020-02-09 21:55:07,983 [TestNG-tests-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-09 21:55:08,186 [TestNG-tests-1] INFO ebanking - Combined button successfully click
+2020-02-09 21:55:08,808 [TestNG-tests-1] INFO ebanking - Back button click successfully
+2020-02-12 21:33:02,272 [TestNG-tests-1] INFO ebanking - Login page title validation successful
+2020-02-12 21:33:02,728 [TestNG-tests-1] INFO ebanking - Login page UI validation successful
+2020-02-12 21:34:26,069 [TestNG-tests-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 21:34:26,272 [TestNG-tests-1] INFO ebanking - Combined button successfully click
+2020-02-12 21:37:03,130 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-12 21:37:03,571 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-12 21:38:24,314 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 21:38:24,665 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-12 21:42:28,247 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 21:42:28,529 [main] INFO ebanking - Combined button successfully click
+2020-02-12 21:45:24,082 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 21:46:52,417 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 21:49:15,161 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 21:49:15,468 [main] INFO ebanking - Combined button successfully click
+2020-02-12 21:50:48,624 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 21:53:02,378 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 21:54:13,262 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 21:54:13,562 [main] INFO ebanking - Combined button successfully click
+2020-02-12 21:58:07,446 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 21:58:07,744 [main] INFO ebanking - Combined button successfully click
+2020-02-12 22:05:45,534 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 22:05:45,743 [main] INFO ebanking - Combined button successfully click
+2020-02-12 22:09:50,556 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 22:09:50,879 [main] INFO ebanking - Combined button successfully click
+2020-02-12 22:11:42,289 [main] INFO ebanking - Login  successful
+2020-02-12 22:11:42,654 [main] INFO ebanking - Companies button validation successful
+2020-02-12 22:11:43,377 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 22:11:43,545 [main] INFO ebanking - Combined button successfully click
+2020-02-12 22:12:32,713 [main] INFO ebanking - Login  successful
+2020-02-12 22:12:32,949 [main] INFO ebanking - Companies button validation successful
+2020-02-12 22:12:33,624 [main] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 22:12:33,940 [main] INFO ebanking - Combined button successfully click
+2020-02-12 22:12:34,905 [main] INFO ebanking - Back button click successfully
+2020-02-12 22:13:11,693 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-12 22:13:12,136 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-12 22:13:19,341 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-12 22:13:46,317 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-12 22:13:46,523 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-12 22:13:47,264 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 22:13:47,484 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-12 22:14:13,150 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-12 22:14:13,284 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-12 22:14:14,038 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 22:14:14,330 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-12 22:14:15,014 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-12 23:23:11,922 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-12 23:23:12,382 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-12 23:23:22,234 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-12 23:23:45,930 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-12 23:23:46,116 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-12 23:23:46,572 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 23:23:46,794 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-12 23:24:09,114 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-12 23:24:09,239 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-12 23:24:09,663 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 23:24:09,838 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-12 23:24:10,445 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-12 23:57:35,748 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-12 23:57:36,063 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-12 23:57:43,276 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-12 23:58:10,738 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-12 23:58:11,070 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-12 23:58:11,809 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 23:58:12,095 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-12 23:58:36,450 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-12 23:58:36,602 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-12 23:58:37,110 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-12 23:58:37,281 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-12 23:58:37,922 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-13 00:01:57,362 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 00:01:57,946 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 00:02:05,672 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 00:02:30,302 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 00:02:30,630 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 00:02:31,396 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 00:02:31,684 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-13 00:02:58,201 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 00:02:58,343 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 00:02:58,946 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 00:02:59,245 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-13 00:03:00,111 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-13 00:09:15,946 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 00:09:16,469 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 00:09:24,447 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 00:09:47,915 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 00:09:48,089 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 00:09:48,712 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 00:09:48,929 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-13 00:10:11,391 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 00:10:11,544 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 00:10:12,122 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 00:10:12,414 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-13 00:10:13,356 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-13 21:35:09,784 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 21:35:10,111 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 21:35:19,545 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 21:35:46,615 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 21:35:46,807 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 21:35:47,456 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 21:35:47,782 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-13 21:36:10,997 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 21:36:11,187 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 21:36:11,702 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 21:36:11,968 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-13 21:36:12,763 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-13 21:39:10,561 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 21:50:56,792 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 21:50:57,566 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 21:51:05,790 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 21:51:31,777 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 21:51:32,293 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 21:51:33,084 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 21:51:33,430 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-13 21:51:57,879 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 21:51:58,216 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 21:51:58,721 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 21:51:58,968 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-13 21:51:59,776 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-13 22:09:10,163 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 22:09:10,686 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 22:10:06,214 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 22:10:55,177 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 22:10:55,355 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 22:10:55,927 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 22:10:56,203 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-13 22:11:19,612 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 22:11:19,775 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 22:11:20,351 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 22:11:20,651 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-13 22:11:21,322 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-13 22:41:53,450 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 22:41:54,142 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 22:42:03,796 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 22:42:29,267 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 22:42:29,456 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 22:42:30,092 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 22:42:30,402 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-13 22:42:54,589 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 22:42:54,746 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 22:42:55,297 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 22:42:55,517 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-13 22:42:56,222 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-13 23:01:05,153 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 23:01:05,553 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 23:01:13,378 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 23:01:50,660 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 23:01:50,835 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:01:51,413 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:01:51,650 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-13 23:02:13,879 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:02:14,061 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:02:14,434 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:02:14,594 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-13 23:02:15,299 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-13 23:03:24,725 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 23:03:25,075 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 23:03:33,261 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 23:03:59,618 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 23:03:59,798 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:04:00,267 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:04:00,424 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-13 23:04:21,799 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:04:22,156 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:04:22,598 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:04:22,802 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-13 23:04:23,469 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-13 23:06:32,648 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 23:06:33,148 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 23:06:35,519 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 23:06:35,980 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 23:06:42,226 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 23:06:43,201 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 23:07:04,855 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 23:07:05,044 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:07:05,484 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:07:05,691 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-13 23:07:06,890 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 23:07:07,054 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:07:07,527 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:07:07,817 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-13 23:07:27,909 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:07:28,170 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:07:28,582 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:07:28,856 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-13 23:07:29,549 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-13 23:07:30,766 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:07:30,879 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:07:31,457 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:07:31,848 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-13 23:07:32,683 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-13 23:14:21,524 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 23:14:21,768 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 23:14:28,903 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 23:14:50,638 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 23:14:50,734 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:14:51,046 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:14:51,175 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-13 23:15:12,698 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:15:12,778 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:15:13,062 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:15:13,158 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-13 23:15:13,569 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-13 23:24:33,765 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 23:24:34,067 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 23:24:40,404 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 23:25:02,112 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 23:25:02,208 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:25:02,533 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:25:02,643 [TestNG-test=Homepage Test-1] INFO ebanking - Combined button successfully click
+2020-02-13 23:25:23,542 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:25:23,626 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:25:23,922 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:25:24,018 [TestNG-test=Combined test-1] INFO ebanking - Combined button successfully click
+2020-02-13 23:25:24,451 [TestNG-test=Combined test-1] INFO ebanking - Back button click successfully
+2020-02-13 23:28:45,824 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 23:28:46,025 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 23:28:52,572 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 23:29:14,108 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 23:29:14,187 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:29:14,524 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:29:35,829 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:29:35,904 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:29:36,172 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:29:40,626 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:29:40,695 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:29:40,956 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:29:45,029 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:29:45,101 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:29:45,368 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:29:50,374 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:29:50,449 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:29:50,710 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:33:43,461 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 23:33:43,662 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 23:33:51,088 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 23:34:12,296 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 23:34:12,376 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:34:12,657 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:34:33,374 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:34:33,446 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:34:33,773 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:34:38,563 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:34:38,635 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:34:38,908 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:34:42,833 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:34:42,907 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:34:43,176 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:34:47,644 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:34:47,722 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:34:47,982 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:38:09,746 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 23:38:09,936 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 23:38:16,609 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 23:38:37,973 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 23:38:38,050 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:38:38,324 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:38:59,314 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:38:59,438 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:38:59,707 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:39:04,128 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:39:04,202 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:39:04,462 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:39:08,366 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:39:08,434 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:39:08,703 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:39:12,594 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:39:12,665 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:39:12,936 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:43:29,403 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 23:43:29,608 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 23:43:36,439 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 23:43:58,211 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 23:43:58,298 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:43:58,579 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:44:19,840 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:44:19,918 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:44:20,195 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:44:24,831 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:44:24,901 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:44:25,167 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:44:28,933 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:44:29,006 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:44:29,299 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:44:33,915 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:44:33,992 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:44:34,252 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:46:18,035 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-02-13 23:46:18,246 [TestNG-test=Login test-1] INFO ebanking - Login page UI validation successful
+2020-02-13 23:46:25,588 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-02-13 23:46:47,616 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-02-13 23:46:47,695 [TestNG-test=Homepage Test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:46:47,976 [TestNG-test=Homepage Test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:47:08,833 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:47:08,907 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:47:09,240 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:47:13,539 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:47:13,611 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:47:13,885 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:47:17,659 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:47:17,729 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:47:17,986 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-02-13 23:47:22,378 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
+2020-02-13 23:47:22,458 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
+2020-02-13 23:47:22,739 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
