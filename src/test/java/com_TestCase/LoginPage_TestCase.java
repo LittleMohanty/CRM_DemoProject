@@ -39,7 +39,7 @@ public class LoginPage_TestCase extends BaseClass {
 	@Test(priority = 2)
 	public void LoginPageUIValidation() {
 		this.initiateObject();
-		SoftAssert softassert1 = new SoftAssert();
+		SoftAssert softassert1 =  new SoftAssert();
 		softassert1.assertTrue(obj.homeButtonIsDisplayed(), "Home button is not present");
 		softassert1.assertTrue(obj.pricingButtonIsDisplayed(), "pricing button is not present");
 		softassert1.assertTrue(obj.featuresButtonIsDisplayed(), "Features button is not present");
