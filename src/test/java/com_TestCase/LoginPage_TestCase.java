@@ -47,7 +47,7 @@ public class LoginPage_TestCase extends BaseClass {
 		softassert1.assertTrue(obj.contactButtonIsDisplayed(), "contact button is not present");
 		softassert1.assertAll();
 		// Assert.assertTrue(obj.allHomePageLinkIsDisplayed());
-		log.info("Login page UI validation successful");
+		log.info("Login page UI Validation successful");
 	}
 
 	@Test(priority = 3)
