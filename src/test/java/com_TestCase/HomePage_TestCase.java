@@ -44,7 +44,7 @@ public class HomePage_TestCase extends BaseClass {
 		this.initiateObject();
 		CombinedPage_PageObject combined=homePage.clickCombinedButtonValidation();
 		Assert.assertEquals(combined.pageTitle(), "CRMPRO");
-		log.info("Combined button successfully click");
+		log.info("Combined button  successfully click");
 	}
 	
 }
