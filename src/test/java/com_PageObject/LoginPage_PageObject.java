@@ -57,7 +57,9 @@ public class LoginPage_PageObject {
 
 	public boolean homeButtonIsDisplayed() {
 		boolean result = HomeButton.isDisplayed();
+		
 		return result;
+		
 	}
 
 	public boolean pricingButtonIsDisplayed() {

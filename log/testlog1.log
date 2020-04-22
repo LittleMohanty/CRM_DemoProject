@@ -375,3 +375,6 @@
 2020-02-13 23:47:22,378 [TestNG-test=Combined test-1] INFO ebanking - Login  successful
 2020-02-13 23:47:22,458 [TestNG-test=Combined test-1] INFO ebanking - Companies button validation successful
 2020-02-13 23:47:22,739 [TestNG-test=Combined test-1] INFO ebanking - All buttons are persent in Webpage
+2020-04-20 20:34:19,698 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-04-20 20:34:20,110 [TestNG-test=Login test-1] INFO ebanking - Login page UI Validation successful
+2020-04-20 20:34:33,427 [TestNG-test=Login test-1] INFO ebanking - Login  successful

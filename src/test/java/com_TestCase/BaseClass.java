@@ -31,6 +31,7 @@ public class BaseClass {
 		log=Logger.getLogger("ebanking");
 		PropertyConfigurator.configure("Log4j.properties");
 		
+		
 
 	}
 
@@ -41,6 +42,7 @@ public class BaseClass {
 
 	public void launchURL() {
 		driver.get(url);
+		log.info("closing the browser");
 		
 
 	}
