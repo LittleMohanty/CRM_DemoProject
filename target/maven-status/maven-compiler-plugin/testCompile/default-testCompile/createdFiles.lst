@@ -8,6 +8,6 @@ com_utilities\GenericMethods.class
 com_PageObject\HomePage_PageObject.class
 com_utilities\Screenshot.class
 com_TestCase\LoginPage_TestCase.class
-com_utilities\Reporting_CRM.class
+com_utilities\AdvanceReport.class
 com_utilities\Recofig_Properties.class
 com_TestCase\CombinedPage_TestCase.class
