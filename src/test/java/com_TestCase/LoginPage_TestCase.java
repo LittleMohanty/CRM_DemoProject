@@ -14,8 +14,8 @@ public class LoginPage_TestCase extends BaseClass {
 	static LoginPage_PageObject obj;
 
 	public String url = read.browerUrl();
-	public String Username = read.username();
-	public String password = read.password();
+	public String Username = System.getProperty("username");//read.username();
+	public String password = System.getProperty("password");//read.password();
 
 //	@BeforeMethod
 	public void initiateObject() {
