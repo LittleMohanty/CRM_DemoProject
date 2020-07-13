@@ -1,30 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="1" parallel="classes" name="Failed suite [automation suite]" guice-stage="DEVELOPMENT">
-  <listeners>
-    <listener class-name="com_utilities.AdvanceReport"/>
-    <listener class-name="com_utilities.Transformer"/>
-  </listeners>
-  <test thread-count="1" parallel="classes" name="Homepage Test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com_TestCase.HomePage_TestCase">
+      <class name="com_TestCase.LoginPage_TestCase">
         <methods>
-          <include name="CombinedButtonClickValidation"/>
+          <include name="loginPageTitleValidation"/>
           <include name="Setup"/>
           <include name="tearDown"/>
+          <include name="LoginValidation"/>
+          <include name="LoginPageUIValidation"/>
         </methods>
-      </class> <!-- com_TestCase.HomePage_TestCase -->
+      </class> <!-- com_TestCase.LoginPage_TestCase -->
     </classes>
-  </test> <!-- Homepage Test(failed) -->
-  <test thread-count="1" parallel="classes" name="Combined test(failed)">
-    <classes>
-      <class name="com_TestCase.CombinedPage_TestCase">
-        <methods>
-          <include name="backButtonValidation"/>
-          <include name="Setup"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com_TestCase.CombinedPage_TestCase -->
-    </classes>
-  </test> <!-- Combined test(failed) -->
-</suite> <!-- Failed suite [automation suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

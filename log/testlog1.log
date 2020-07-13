@@ -378,3 +378,24 @@
 2020-04-20 20:34:19,698 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
 2020-04-20 20:34:20,110 [TestNG-test=Login test-1] INFO ebanking - Login page UI Validation successful
 2020-04-20 20:34:33,427 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-07-10 07:21:13,924 [TestNG-test=Login test-1] INFO ebanking - closing the browser
+2020-07-10 07:21:13,942 [TestNG-test=Login test-1] INFO ebanking - Login page title validation successful
+2020-07-10 07:21:14,125 [TestNG-test=Login test-1] INFO ebanking - Login page UI Validation successful
+2020-07-10 07:21:19,611 [TestNG-test=Login test-1] INFO ebanking - Login  successful
+2020-07-10 07:21:33,005 [TestNG-test=Homepage Test-1] INFO ebanking - closing the browser
+2020-07-10 07:21:39,193 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-07-10 07:21:49,684 [TestNG-test=Homepage Test-1] INFO ebanking - closing the browser
+2020-07-10 07:21:53,670 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-07-10 07:22:04,047 [TestNG-test=Homepage Test-1] INFO ebanking - closing the browser
+2020-07-10 07:22:08,746 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-07-10 07:22:19,148 [TestNG-test=Homepage Test-1] INFO ebanking - closing the browser
+2020-07-10 07:22:23,043 [TestNG-test=Homepage Test-1] INFO ebanking - Login  successful
+2020-07-10 07:23:41,041 [TestNG-test=Combined test-1] INFO ebanking - closing the browser
+2020-07-13 07:48:41,886 [main] INFO ebanking - closing the browser
+2020-07-13 07:48:41,915 [main] INFO ebanking - Login page title validation successful
+2020-07-13 07:48:42,252 [main] INFO ebanking - Login page UI Validation successful
+2020-07-13 07:48:51,433 [main] INFO ebanking - Login  successful
+2020-07-13 07:54:49,987 [main] INFO ebanking - closing the browser
+2020-07-13 07:54:50,024 [main] INFO ebanking - Login page title validation successful
+2020-07-13 07:54:50,328 [main] INFO ebanking - Login page UI Validation successful
+2020-07-13 07:54:57,171 [main] INFO ebanking - Login  successful

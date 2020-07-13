@@ -6,6 +6,7 @@ com_utilities\Retrylogic.class
 com_utilities\Transformer.class
 com_utilities\GenericMethods.class
 com_PageObject\HomePage_PageObject.class
+com_PageObject\GenericPage_PageObject.class
 com_utilities\Screenshot.class
 com_TestCase\LoginPage_TestCase.class
 com_utilities\AdvanceReport.class

@@ -23,11 +23,16 @@ public class BaseClass {
 	private String url = read.browerUrl();
 
 	@BeforeClass
-	public void Setup() {
+	public void Setup() throws Exception {
+		String browser = System.getProperty("browser");
+		if(browser.equalsIgnoreCase("chrome")) {
 		System.setProperty("webdriver.chrome.driver", "./Drivers//chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
+		}else {
+			throw new Exception("Invalid Browser.. Please enter chrome");
+		}
 		log=Logger.getLogger("ebanking");
 		PropertyConfigurator.configure("Log4j.properties");
 		
